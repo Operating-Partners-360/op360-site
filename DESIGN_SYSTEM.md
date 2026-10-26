@@ -7,7 +7,7 @@
 
 | Élément | Valeur |
 |---|---|
-| Repo | `richardpaquette-svg/op360-site` |
+| Repo | `Operating-Partners-360/op360-site` |
 | Branche principale | `main` |
 | Hébergement | Cloudflare Pages |
 | URL prod | https://op360-site.pages.dev |
@@ -124,7 +124,7 @@
 | Ressource | URL |
 |---|---|
 | Site prod | https://op360-site.pages.dev |
-| Repo GitHub | https://github.com/richardpaquette-svg/op360-site |
+| Repo GitHub | https://github.com/Operating-Partners-360/op360-site |
 | Cloudflare Pages | https://dash.cloudflare.com |
 | Prise de RDV (Bigin) | https://eu.bigin.online/org20111341014/bookings/contact-op360 |
 | LinkedIn OP360 | https://www.linkedin.com/company/operating360 |

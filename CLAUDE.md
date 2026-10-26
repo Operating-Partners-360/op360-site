@@ -76,7 +76,7 @@
 | Ressource | URL |
 |---|---|
 | Site prod | https://op360-site.pages.dev |
-| Repo GitHub | https://github.com/richardpaquette-svg/op360-site |
+| Repo GitHub | https://github.com/Operating-Partners-360/op360-site |
 | Booking | https://eu.bigin.online/org20111341014/bookings/contact-op360 |
 | Email | contact@operating360.com |
 | Tél | 06 51 72 15 24 |
